@@ -1,3 +1,3 @@
 JPetStore
 =========
-welcome
+Java JPetStore Demo SpringMVC with MyBatis
