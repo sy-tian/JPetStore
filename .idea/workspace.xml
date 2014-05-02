@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4434fbb5-1f68-4a21-8bfc-cb3c90e6a46e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/cart/Cart.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/cart/Cart.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Category.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Category.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/cart/Checkout.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/cart/Checkout.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/account/EditAccountForm.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/account/EditAccountForm.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/account/IncludeAccountFields.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/account/IncludeAccountFields.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Item.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Item.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/account/NewAccountForm.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/account/NewAccountForm.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Product.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Product.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/SearchProducts.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/SearchProducts.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/css/jpetstore.css" afterPath="$PROJECT_DIR$/src/main/webapp/css/jpetstore.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jpetstore.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,20 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EditAccountForm.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/account/EditAccountForm.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="555">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Category.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Category.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.2916665" vertical-offset="59" max-vertical-offset="630">
+            <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="630">
               <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
@@ -66,11 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Product.jsp" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Product.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Product.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.2083335" vertical-offset="97" max-vertical-offset="915">
-              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.5694087" vertical-offset="97" max-vertical-offset="915">
+              <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jpetstore.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/jpetstore.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4823" max-vertical-offset="5670">
+              <caret line="362" column="1" selection-start-line="362" selection-start-column="1" selection-end-line="362" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -126,10 +115,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Checkout.jsp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Checkout.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/cart/Checkout.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20951156" vertical-offset="182" max-vertical-offset="960">
+            <state vertical-scroll-proportion="-6.7916665" vertical-offset="182" max-vertical-offset="960">
               <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
               <folding />
             </state>
@@ -153,16 +142,16 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Main.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/common/IncludeTop.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/common/IncludeBottom.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/css/jpetstore.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Category.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Item.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Product.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/SearchProducts.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/account/EditAccountForm.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/account/IncludeAccountFields.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/account/NewAccountForm.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/cart/Cart.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/cart/Checkout.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/jpetstore.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Product.jsp" />
       </list>
     </option>
   </component>
@@ -333,7 +322,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
+              <option name="myItemId" value="catalog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -560,12 +549,12 @@
       <created>1399006910256</created>
       <updated>1399006910256</updated>
       <workItem from="1399006911884" duration="258000" />
-      <workItem from="1399015079762" duration="2138000" />
+      <workItem from="1399015079762" duration="2393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2396000" />
+    <option name="totallyTimeSpent" value="2651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -660,14 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/jpetstore.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.3461537" vertical-offset="780" max-vertical-offset="5070">
-          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/account/EditAccountForm.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="555">
@@ -676,26 +657,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Category.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.2916665" vertical-offset="59" max-vertical-offset="630">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Item.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.5416665" vertical-offset="74" max-vertical-offset="1005">
           <caret line="17" column="47" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Product.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.2083335" vertical-offset="97" max-vertical-offset="915">
-          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
           <folding />
         </state>
       </provider>
@@ -742,8 +707,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/cart/Checkout.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20951156" vertical-offset="182" max-vertical-offset="960">
+        <state vertical-scroll-proportion="-6.7916665" vertical-offset="182" max-vertical-offset="960">
           <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Category.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="630">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/jpetstore.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4823" max-vertical-offset="5670">
+          <caret line="362" column="1" selection-start-line="362" selection-start-column="1" selection-end-line="362" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/catalog/Product.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5694087" vertical-offset="97" max-vertical-offset="915">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
           <folding />
         </state>
       </provider>
