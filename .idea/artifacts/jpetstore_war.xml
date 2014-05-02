@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jpetstore:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jpetstore.war">
+      <element id="artifact" artifact-name="jpetstore:war exploded" />
+    </root>
+  </artifact>
+</component>
