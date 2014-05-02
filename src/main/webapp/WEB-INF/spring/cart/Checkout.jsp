@@ -6,12 +6,12 @@
 
 <div id="Catalog">
 
-<table>
+<table class="pure-table pure-table-horizontal">
 	<tr>
 		<td>
 		<h2>Checkout Summary</h2>
 
-		<table>
+		<table class="pure-table pure-table-horizontal">
 
 			<tr>
 				<td><b>Item ID</b></td>

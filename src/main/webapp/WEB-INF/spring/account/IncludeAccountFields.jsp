@@ -1,6 +1,6 @@
 <h3>Account Information</h3>
 
-<table>
+<table class="pure-table pure-table-horizontal">
 	<tr>
 		<td>First name:</td>
 		<td><stripes:text name="account.firstName" /></td>
@@ -45,7 +45,7 @@
 
 <h3>Profile Information</h3>
 
-<table>
+<table class="pure-table pure-table-horizontal">
 	<tr>
 		<td>Language Preference:</td>
 		<td><stripes:select name="account.languagePreference">

@@ -7,7 +7,7 @@
 
 <div id="Catalog">
 
-<table>
+<table class="pure-table pure-table-horizontal">
 	<tr>
 		<th>&nbsp;</th>
 		<th>Product ID</th>

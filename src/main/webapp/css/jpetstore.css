@@ -122,6 +122,11 @@ a.Button:hover {
   height: 9ex;
 }
 
+#Logo > #LogoContent {
+    position: relative;
+    margin-left: 2em;
+}
+
 body>#Logo {
   height: 9ex;
 }

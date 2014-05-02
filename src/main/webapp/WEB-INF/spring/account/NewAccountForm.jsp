@@ -6,7 +6,7 @@
 
 	<h3>User Information</h3>
 
-	<table>
+	<table class="pure-table pure-table-horizontal">
 		<tr>
 			<td>User ID:</td>
 			<td><stripes:text name="username" /></td>

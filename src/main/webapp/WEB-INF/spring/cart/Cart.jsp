@@ -11,7 +11,7 @@
 <h2>Shopping Cart</h2>
 <stripes:form
 	beanclass="org.mybatis.jpetstore.web.actions.CartActionBean">
-	<table>
+	<table class="pure-table pure-table-horizontal">
 		<tr>
 			<th><b>Item ID</b></th>
 			<th><b>Product ID</b></th>
