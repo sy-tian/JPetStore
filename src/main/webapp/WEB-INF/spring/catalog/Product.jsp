@@ -16,7 +16,7 @@
 <div id="Catalog">
 
     <h2>${product.name}</h2>
-    <table>
+    <table class="pure-table pure-table-horizontal">
         <tr>
             <th>Item ID</th>
             <th>Product ID</th>

@@ -12,6 +12,7 @@
 <head>
     <link rel="StyleSheet" href="../css/jpetstore.css" type="text/css"
           media="screen"/>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.4.2/pure-min.css">
 
     <meta name="generator"
           content="HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org"/>

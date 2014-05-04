@@ -1,10 +1,10 @@
 body {
-  margin: 0ex 10ex 0ex 10ex;
+  margin: 0ex 0ex 0ex 0ex;
   padding: 0ex;
-  font-family: helvetica, tahoma, arial, verdana, sans-serif;
+  font-family: sans-serif;
   font-size: 2ex;
   color: #333;
-  background-color: #444;
+  background-color: #fff;
 }
 
 pre {
@@ -114,12 +114,17 @@ a.Button:hover {
   border-style: solid;
   border-color: #ccc;
   float: left;
-  background-color: #000;
+  background-color: rgba(44, 68, 81, 1);
   color: #fff;
   line-height: 9ex;
   voice-family: "\"}\"";
   voice-family: inherit;
   height: 9ex;
+}
+
+#Logo > #LogoContent {
+    position: relative;
+    margin-left: 2em;
 }
 
 body>#Logo {
@@ -135,7 +140,7 @@ body>#Logo {
   border-style: solid;
   border-color: #ccc;
   float: left;
-  background-color: #000;
+  background-color: rgba(44, 68, 81, 1);
   color: #eaac00;
   text-decoration: none;
   font-family: helvetica, tahoma, arial, verdana, sans-serif;
@@ -160,7 +165,7 @@ body>#Menu {
 }
 
 #Search {
-  width: 33%;
+  width: 34%;
   height: 9ex;
   margin: 0ex 0ex 0ex 0ex;
   padding: 0ex 0ex 0ex 0ex;
@@ -169,7 +174,7 @@ body>#Menu {
   border-color: #ccc;
   float: left;
   text-align: center;
-  background-color: #000;
+  background-color: rgba(44, 68, 81, 1);
   color: #eaac00;
   line-height: 9ex;
   voice-family: "\"}\"";
@@ -192,7 +197,7 @@ body>#Search {
 #QuickLinks {
   text-align: center;
   background-color: #FFF;
-  width: 99%;
+  width: 100%;
 }
 
 #PoweredBy {
@@ -200,9 +205,7 @@ body>#Search {
   height: 9ex;
   margin: 0ex 0ex 0ex 0ex;
   padding: 0ex 0ex 0ex 0ex;
-  border-width: .3ex 0ex .3ex 0px;
-  border-style: solid;
-  border-color: #ccc;
+  border-style: none;
   float: left;
   background-color: #000;
   color: #fff;
@@ -221,10 +224,9 @@ body>#PoweredBy {
   height: 9ex;
   margin: 0ex 0ex 0ex 0ex;
   padding: 0ex 0ex 0ex 0ex;
-  border-width: .3ex 0ex .3ex 0px;
-  border-style: solid;
-  border-color: #ccc;
+  border-style: none;
   float: left;
+  text-align: center;
   background-color: #000;
   color: #fff;
   line-height: 9ex;
@@ -239,7 +241,7 @@ body>#Banner {
 
 #Content {
   margin: 0;
-  padding: 0ex 0ex 0ex 0ex;
+  padding: 1ex 2ex 1ex 2ex;
   width: 99%;
   color: #333;
   background-color: #FFF;
@@ -320,4 +322,52 @@ body>#Banner {
   float: left;
   background-color:#ccc;
   text-align:left;
+}
+
+#Footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    background: #111;
+}
+
+.button-success,
+.button-error,
+.button-warning,
+.button-secondary {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.button-success {
+    background: rgb(28, 184, 65); /* this is a green */
+}
+
+.button-error {
+    background: rgb(202, 60, 60); /* this is a maroon */
+}
+
+.button-warning {
+    background: rgb(223, 117, 20); /* this is an orange */
+}
+
+.button-secondary {
+    background: rgb(66, 184, 221); /* this is a light blue */
+}
+
+.button-xsmall {
+    font-size: 70%;
+}
+
+.button-small {
+    font-size: 85%;
+}
+
+.button-large {
+    font-size: 110%;
+}
+
+.button-xlarge {
+    font-size: 125%;
 }
